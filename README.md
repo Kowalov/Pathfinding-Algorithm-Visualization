@@ -30,6 +30,7 @@ Press "Space" to run the visiualization.
 List of features ready:
 * A* search algorithm done in python.
 * Algorithm work visualization in pygame
+* Ability to change start and finish points and delate / change barriers 
 
 ## Status
 Project finished
